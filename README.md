@@ -1,0 +1,2 @@
+# Stellar Biotechnologies News Feed
+This little mini-app pulls a newsfeed of recently published articles from Stellar Biotechnologies in the form of JSON, and loads the parsed data into a webpage.  Scroll to the bottom of the page to load more content.  It's pure vanilla.
